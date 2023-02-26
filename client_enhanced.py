@@ -1,7 +1,4 @@
 '''
-CMPT361 Group Project
-Group Members - Will Lorentz, Jordan Wolski, Knight McLaughlin
-
 Purpose - This is the client side of a secure mail application.
 '''
 
